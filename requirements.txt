@@ -1,0 +1,7 @@
+Memberships 
+
+* User should see link for basic plan on home page. 
+* User should see link for pro plan on home page. 
+* basic plan link should point to regular devise signin
+* pro link should point to devise + card stripe / custom
+
